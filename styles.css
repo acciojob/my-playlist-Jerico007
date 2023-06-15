@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#cccccc;
+}
+
+h1,h2{
+	text-align:center;
+}
+a{
+	text-decoration:none;
+	color:black
+}
+.player_one{
+	height:50%;
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+}
+
+.player_two{
+	margin-left:30%;
+	width:40%;
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+}
+
+.vid{
+	padding:3px;
+	position:relative;
+}
+ul{
+   list-style-type:none;
+	padding-left:5px;
+}
