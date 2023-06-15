@@ -26,8 +26,11 @@ a{
 }
 
 .vid{
-	padding:3px;
-	position:relative;
+	padding:5px;
+}
+
+video{
+	width:100%;
 }
 ul{
    list-style-type:none;
